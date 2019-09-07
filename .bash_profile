@@ -7,4 +7,4 @@ export PYENV_ROOT="${HOME}/.pyenv"
 export PATH="${PYENV_ROOT}/bin:$PATH"
 eval "$(pyenv init -)"
 
-source ~/dotfiles/.bashrc
+source ~/bash_dotfiles/.bashrc
